@@ -13,6 +13,7 @@ public class MainClass
 	private static int maxAllowedMemory = 70;
 	public static void main(String[] args) 
 	{
+		//int count = 1;
 		int count = 0;
 		String hostName = "";
 		File[] drives;
