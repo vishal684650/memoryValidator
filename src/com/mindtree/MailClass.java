@@ -22,7 +22,7 @@ public class MailClass
 		final String toEmail = "vishal684650@gmail.com";
 		String driveMessage = "";
 		String subject = hostName + " Machine is Almost Full";
-		String mailBody = "Hi, <br><br> "+hostName
+		String mailBody = "Hi, <br><br><br> "+hostName
 				+ " Machine is Almost Full. Below are the statistics for all the drives which are more than 70% used "
 				+ "<br><br>"
 				+ "<Table border=\"1\"><tr><th>Drive Name</th><th>Total Space</th><th>Free Space</th><th>Used Space</th></tr>";
